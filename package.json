@@ -18,6 +18,7 @@
     "expo-linking": "~8.0.9",
     "expo-router": "~6.0.15",
     "expo-status-bar": "~3.0.8",
+    "firebase": "^12.6.0",
     "nativewind": "^4.2.1",
     "prettier-plugin-tailwindcss": "^0.5.14",
     "react": "19.1.0",
