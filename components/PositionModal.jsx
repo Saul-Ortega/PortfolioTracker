@@ -88,7 +88,7 @@ export default function PositionModal({ showModal, setShowModal, readPositions, 
             setShowModal(!showModal);
           }}>
             <View className='flex-1 items-center justify-center bg-white'>
-                <Pressable className='absolute right-2 top-12'
+                <Pressable className='absolute right-2 top-4'
                 onPress={ () => {
                     setShowModal(false); 
                     if ( newPosition ) {
