@@ -1,0 +1,1 @@
+Create .env file and put EXPO_PUBLIC_ALPHA_VANTAGE_API_KEY to fetch items
